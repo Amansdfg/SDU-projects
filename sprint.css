@@ -1,0 +1,72 @@
+.main{
+    padding: 2%;
+    border: 1px solid gainsboro;
+    margin: 10px; 
+    border-radius: 1%;
+    border-width: 5px;
+}
+.headder{
+    background-color: brown;    
+    padding: 20px;
+    color: aliceblue;
+    margin-bottom: 1%;
+}
+span{
+    font-size: 30px;
+}
+.right{
+    float: right;
+    font-size: 30px;
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: aliceblue;
+}
+.Information{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width:100%;
+    /* border-radius: 50%; */
+}
+.news{
+    font-size: 400%;
+    padding: 1%;
+    text-align: center;
+}
+.Aman{
+    border: solid gainsboro;
+    margin: 1%;
+}
+.padding{
+    padding:3%;
+}
+.Khabib{
+    display: flex;
+    background-color: aqua
+}
+.image{
+    padding: 1%;
+}
+input{
+    color: white;
+    background-color:crimson;
+}
+.head{
+    font-size: 160%;
+}
+#text{
+    padding: 10px 10px 10px 0px;
+}
+#text>div>p{
+    font-size: 20px;
+}
+#TextOne{
+    font-size: 30px;
+}
+#create{
+    font-size: 30px;
+}
