@@ -10,7 +10,7 @@ import javafx.animation.AnimationTimer;
 import javafx.scene.input.KeyCode;
 import javafx.scene.image.Image;
 import javafx.scene.text.Font;
-public class Aman_Kalabay_230103375 extends Application{
+public class SnakeGame extends Application{
 	private LinkedList<SnakePart> snakeParts=new LinkedList<>();
 	private Direction direction=Direction.RIGHT;
 	private SnakePart food;
