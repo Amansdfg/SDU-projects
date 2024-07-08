@@ -1,5 +1,5 @@
 import java.util.*;
-public class Aman_Kalabay_230103375_ProjectOne{
+public class StudentGradeBookApplicattion{
     public static Scanner input = new Scanner(System.in);
     public static String[] name = new String[30];
     public static int[] id = new int[30];
